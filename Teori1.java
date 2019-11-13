@@ -18,7 +18,7 @@ public abstract class Teori1 implements ActionListener {
         
         JButton butt=new JButton("Munculkan Nama");
         JButton butt2=new JButton("Munculkan NIM");
-        JButton butt3=new JButton("Munculkan Almat");
+        JButton butt3=new JButton("Munculkan Alamat");
         frame.getContentPane().add(butt);
         frame.getContentPane().add(butt2);
         frame.getContentPane().add(butt3);
